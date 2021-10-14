@@ -2,6 +2,13 @@
 
 owner of this repo :- [AYUSH](https://github.com/ayushteke)
 
+
+# all the commits are made from [slam-mirrorbot](https://github.com/SlamDevs/slam-mirrorbot)
+
+## all the credit goes to [slamDevs](https://github.com/SlamDevs)
+
+
+
 contact me :- [AYUSH](https://t.me/request_ayush)
 
 # Slam Mirror Bot
@@ -9,19 +16,10 @@ This is a telegram bot writen in python for mirroring files on the internet to o
 
 ## Deploying on Heroku
 Give Star & Fork this repo, then upload **token.pickle** & **credentials.json** to your forks
-to know how to get them click on the  #[ link ](https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU#getting-google-oauth-api-credential-file)
-
-## watch this video for full instructions 
-# [video 1](https://www.youtube.com/watch?v=4Dq_yWxWtQQ) ( with SA accounts and mega.nz )
- 
-# [video 2](https://www.youtube.com/watch?v=F58_LKXiZ-0) ( without SA accounts and no mega.nz )
-  
-   [YouTobe channel](https://www.youtube.com/channel/UCodj8yIUqFrM1VbnRbL0LHA) (for more such videos )
-
 
 
 after this click on the below button 👇👇👇👇
-<p><a href="https://raw.githubusercontent.com/ayushteke/slam_aria_mirror_bot/master/deploy%20button%20removed.txt"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>    will not work use workflow method
+<p><a href="https://github.com/ayushteke/Torrent_2_Gdrive_mirrorbot/blob/master/heroku-guide.md"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p> 
 
 
 ## Features supported:
